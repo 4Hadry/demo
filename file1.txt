@@ -9,3 +9,4 @@ this line also c feature2
 
 this line is feature3
 this line is also feature3
+this is another line is also feature3
